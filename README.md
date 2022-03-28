@@ -6,6 +6,7 @@ Olá me chamo Sávio e sou estudante de Sistemas para Internet no IFPB, Curto o 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioquixaba&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+  ##
   
  <div style="display: inline_block"><br>
   <img align="center" alt="savio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
