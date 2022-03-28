@@ -1,5 +1,5 @@
 Olá me chamo Sávio e sou estudante de Sistemas para Internet no IFPB, Curto o Front-End, e atualmente estou estudando JS e pretendo estudar React como proxima linguagem.
-
+##
 <div align="center">
   <a href="https://github.com/savioquixaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savioquixaba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,11 +9,10 @@ Olá me chamo Sávio e sou estudante de Sistemas para Internet no IFPB, Curto o 
   
  <div style="display: inline_block"><br>
   <img align="center" alt="savio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
   <img align="center" alt="Savio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Savio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Savio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Savio-Bootstrap" height="30" width="40"
+  <img align="center" alt="Savio-Bootstrap" height="30" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
           
 </div>
