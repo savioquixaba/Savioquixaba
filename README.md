@@ -1,4 +1,4 @@
-Olá me chamo Sávio e sou estudante de Sistemas para Internet no IFPB, Curto o Front-End, e atualmente estou estudando JS e pretendo estudar React como proxima linguagem.
+Olá me chamo Sávio e sou estudante de Sistemas para Internet no IFPB, Curto o Front-End, e atualmente estou focado em entrar no mercado de trabalho como programador.
 ##
 <div align="center" display="center">
   <a href="https://github.com/savioquixaba">
