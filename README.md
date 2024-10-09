@@ -17,7 +17,7 @@ Olá me chamo Sávio e sou estudante de Sistemas para Internet no IFPB, Curto o 
   <img align="center" alt="savio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="savio-Bootstrap" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="savio-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="savio-Postgre" height="30" width="40"src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg)" />
+  <img align="center" alt="savio-Postgre" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
    <img align="center" alt="savio-TS" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
           
 </div>
