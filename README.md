@@ -1,4 +1,4 @@
-Olá me chamo Sávio e sou estudante de Sistemas para Internet na Estácio, Gosto muito do Front-end porem estou focado em entrar no mercado profissional como back-end com a linguagem de c#.
+Olá me chamo Sávio e sou estudante de Sistemas para Internet na Estácio, Gosto muito do Front-end porem estou focado em entrar no mercado profissional como back-end com a linguagem de C#.
 <div align="center" display="center">
   <a href="https://github.com/savioquixaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savioquixaba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,8 @@ Olá me chamo Sávio e sou estudante de Sistemas para Internet na Estácio, Gost
   <img align="center" alt="savio-Bootstrap" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="savio-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="savio-Postgre" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
-   <img align="center" alt="savio-TS" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="savio-TS" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="savio-Postgre" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" />
           
 </div>
   
