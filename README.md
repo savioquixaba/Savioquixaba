@@ -1,5 +1,4 @@
-Olá me chamo Sávio e sou estudante de Sistemas para Internet no IFPB, Curto o Front-End, e atualmente estou focado em entrar no mercado de trabalho como programador.
-##
+Olá me chamo Sávio e sou estudante de Sistemas para Internet na Estácio, Gosto muito do Front-end porem estou focado em entrar no mercado profissional como back-end com a linguagem de c#.
 <div align="center" display="center">
   <a href="https://github.com/savioquixaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savioquixaba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
