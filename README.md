@@ -57,3 +57,5 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/savioquixaba/savioquixaba/blob/output/github-contribution-grid-snake.svg)
