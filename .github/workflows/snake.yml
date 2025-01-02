@@ -17,8 +17,9 @@ jobs:
           github_user_name: savioquixaba # Seu nome de usuário no GitHub
           outputs: dist/snake.svg
 
-      - name: Push generated Snake Game to output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+      - name: Deploy Snake Game to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
