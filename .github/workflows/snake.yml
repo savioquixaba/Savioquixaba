@@ -2,24 +2,23 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite
-  workflow_dispatch: # Permite executar manualmente
+    - cron: "0 0 * * *" # Executa diariamente
+  workflow_dispatch: # Permite execução manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Faz o checkout do repositório
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha
-      - uses: Platane/snk@v2
+      - name: Generate Snake Game
+        uses: Platane/snk/svg-only@v2 # Atualizado para svg-only
         with:
-          github_user_name: savioquixaba
+          github_user_name: Savioquixaba # Seu nome de usuário do GitHub
           outputs: dist/snake.svg
 
-      # Publica o arquivo no branch 'output'
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
+      - name: Push generated Snake Game to output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
